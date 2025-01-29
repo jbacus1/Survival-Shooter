@@ -52,9 +52,9 @@ This project incorporates animations, models, and AI behaviors from Unity’s As
 ### Fighting an Enemy
 ![Demo1](demo_1.png)
 ### GameOver
-![Demo1](demo_1.png)
+![Demo2](demo_2.png)
 ### Surrounded and taking damage
-![Demo1](demo_1.png)
+![Demo3](demo_3.png)
 
 ## Application
 [The Finished Build](./FinishedBuild)
