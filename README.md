@@ -48,7 +48,13 @@ This project incorporates animations, models, and AI behaviors from Unity’s As
   - I had several issues related to file version in the late-stage of my development. The confusion ultimately led to me temporarily deleting my entire codebase. The pain and stress of this taught me the undeniable importance of regular backups and clear file structure. Additionally, it has given me an idea of pre-creating a well-defined and thought through file structure so that I am not forced to shift the general format later on.
 
 ## Screenshots & Demo
-
+---
+### Fighting an Enemy
+![Demo1](demo_1.png)
+### GameOver
+![Demo1](demo_1.png)
+### Surrounded and taking damage
+![Demo1](demo_1.png)
 
 ## Application
 [The Finished Build](./FinishedBuild)
