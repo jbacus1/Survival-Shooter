@@ -10,7 +10,7 @@ This project incorporates animations, models, and AI behaviors from Unity’s As
 - **Game Mechanics**: Waves of increasing difficulty spawn continuously so that no player can survive forever. At the same time, power-ups spawn in hidden set locations randomly, building up over time to give players an edge.
 - **Player Mechanics**: Players are able to smoothly move across the map, directing enemies advancement towards them. Through mouse-clicks the player can aim and shoot, killing enemies and increasing their score. 
 - **Enemies**: 3 different enemy models with varying animations and 2 different stat blocks appear in-game. Enemy behavior is universally zombie-like, pursuing after the player.
-- **Power-Ups**: 3 different power ups allow the player to increase their damage, their fire rate, and their speed temporarily. 
+- **Power-Ups**: 3 different power ups allow the player to increase their damage, fire rate, or speed temporarily. 
 - **Visuals and Audio**: The game uses high-quality premade models, animations, and particle effects to give a polished feel. Sounds and music were similarly sourced to prevent boring silent gameplay.
 - **Arcade-Style**: After their health drops to zero, the player is given a score which is compared to the locally stored hi-score. Shortly after, the scene is reloaded and the player is given the opportunity to play again.
 
