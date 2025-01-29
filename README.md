@@ -29,18 +29,23 @@ This project incorporates animations, models, and AI behaviors from Unity’s As
 
 
 ## Learning Journey
+
 - **Inspiration**: This game was inspired by a 3rd person shooter tutorial in Unity and my own love of arcade style zombies modes in Call of Duty Games. In particular the desire to give different weapon feels through power-ups and a sense of never-ending difficulty came from these games.
+
 - **Impact**: This project serves as a fun way to entertain and engage users. It allows players to compete with each other taking turns playing and seeing who can do the best. In future itterations, I would love to entertain more people by giving more environments and features to keep gameplay dynamic and fresh.
+
 - **Technology Learned**: I learned a large deal of medium to small things about Unity through this development process, these include:
   - Utilizing premade assets by setting up animation controllers, scripting particle usage, and ensuring proper and seamless integration.
   - Converted imported models into prefabs for efficient usage in spawning.
   - Dealing with a large base of scripts and models and organizing internal folders accordingly.
   - Using Unity’s version control system with Git for the first time to manage changes.
+
 - **Why This Technology**: Learning how to utilize high-quality outside assets allowed me to increase the overall quality of the game. Additionally, Git is a tool I continue to use more and more frequently, learning it for Unity is a natural extension of my current skills and will likely help me with version control in the future. Lastly learning large project management and Unity's built in prefab and animation systems was essential for creating the product I desired.
+
 - **Challenges**:
   - Learning all of my previously listed technologies was the most difficult part of this project, however the process of encountering difficulties allowed me to grow more confident in my understanding of these systems.
   - Balancing the game to be fun was difficult as super easy enemies were boring and super difficult enemies were frustrating. The inclusion of power-ups made the game feel viable even as difficulty ramped up and also increased the strategy. Working through this problem really helped me to consider user experience and how playing the game actually felt.
-  - I had several issues related to file version in the late-stage of my development. The confusion ultimately led to me temporarily deleting my entire codebase. The pain and stress of this taught me the undeniable importance of regular backups and clear file structure. Additionally, it has given me an idea of pre-creating a file structure so that I am not forced to shift the general format later on.
+  - I had several issues related to file version in the late-stage of my development. The confusion ultimately led to me temporarily deleting my entire codebase. The pain and stress of this taught me the undeniable importance of regular backups and clear file structure. Additionally, it has given me an idea of pre-creating a well-defined and thought through file structure so that I am not forced to shift the general format later on.
 
 ## Screenshots & Demo
 
